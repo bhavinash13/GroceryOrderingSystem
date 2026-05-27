@@ -1,0 +1,12 @@
+
+packages
+express
+nodemon
+mongoose
+dotenv
+bcryptjs
+jwt
+cors
+multer->for image/files
+image kit
+nodemailer->for OTP
