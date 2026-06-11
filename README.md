@@ -1,6 +1,50 @@
 # Online Grocery Store Management
 A Mern Stack Project for grocery inventory management
 
+##  Application Screenshots
+
+###  Home Page
+Browse featured products and categories from the main landing page.
+
+<p align="center">
+  <img src="screenshots/homePage.png" alt="Home Page" width="900">
+</p>
+
+###  Admin Panel
+Manage products, categories, and application data through the admin dashboard.
+
+<p align="center">
+  <img src="screenshots/adminPanel.png" alt="Admin Panel" width="900">
+</p>
+
+###  Product Creation
+Create and manage new products using the product creation form.
+
+<p align="center">
+  <img src="screenshots/productCreation.png" alt="Product Creation Form" width="900">
+</p>
+
+###  Products List
+View and manage all available products in the system.
+
+<p align="center">
+  <img src="screenshots/productsList.png" alt="Products List" width="900">
+</p>
+
+###  Shopping Cart
+Review selected items and proceed with the checkout process.
+
+<p align="center">
+  <img src="screenshots/cartPage.png" alt="Cart Page" width="900">
+</p>
+
+###  Category Products
+Browse products filtered by category for a streamlined shopping experience.
+
+<p align="center">
+  <img src="screenshots/categoryProducts.png" alt="Category Products" width="900">
+</p>
+
 
 ## Features
 - JWT Authentication
