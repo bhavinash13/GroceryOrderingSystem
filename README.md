@@ -1,5 +1,7 @@
-# Online Grocery Ordering System
+# Online Grocery Store Management
 A Mern Stack Project for grocery inventory management
+
+
 ## Features
 - JWT Authentication
 - OTP Verification
